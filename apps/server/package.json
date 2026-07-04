@@ -12,7 +12,9 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
+    "@clipcraft/db": "workspace:*",
     "@clipcraft/shared": "workspace:*",
+    "drizzle-orm": "catalog:",
     "elysia": "catalog:",
     "@elysiajs/cors": "catalog:"
   },

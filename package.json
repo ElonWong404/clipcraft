@@ -14,6 +14,7 @@
       "vite": "^8.1.0",
       "elysia": "^1.1.0",
       "@elysiajs/cors": "^1.1.0",
+      "drizzle-orm": "^0.32.0",
       "typescript": "^6.0.0"
     }
   },
