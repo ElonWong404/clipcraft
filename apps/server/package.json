@@ -17,6 +17,7 @@
     "@elysiajs/cors": "catalog:"
   },
   "devDependencies": {
+    "@types/bun": "catalog:",
     "typescript": "catalog:"
   }
 }
